@@ -1,5 +1,5 @@
 {
-    "root": "index",
+    "root": "",
     "clean_urls": true,
     "https_only": true,
     "headers": {
